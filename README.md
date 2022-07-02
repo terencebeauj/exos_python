@@ -1,3 +1,3 @@
 # Exercices en Python
 
-Pour se challenger et toujours garder la main
+Exos du cours udemy https://www.udemy.com/course/python-exercices/, pour se challenger et toujours garder la main
